@@ -1,3 +1,4 @@
+-- @ScriptType: Script
 -- This is the main server script. This is a server script with the RunContext set to Server
 
 local DNFramework = require(script.Parent)

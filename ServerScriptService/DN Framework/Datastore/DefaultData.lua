@@ -1,3 +1,4 @@
+-- @ScriptType: ModuleScript
 -- Default Data, to be used with Datastore
 
 local function GetDefaultData () : {PlayerData: {}, leaderstats: {}}

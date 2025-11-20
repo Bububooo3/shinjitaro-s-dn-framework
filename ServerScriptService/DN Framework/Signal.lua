@@ -1,3 +1,4 @@
+-- @ScriptType: ModuleScript
 -- signal
 
 local module = {}

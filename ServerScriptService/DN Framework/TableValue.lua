@@ -1,3 +1,4 @@
+-- @ScriptType: ModuleScript
 -- Table Value
 
 local module = {}

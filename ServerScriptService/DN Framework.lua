@@ -1,4 +1,4 @@
--- the module
+-- @ScriptType: ModuleScript
 
 local RunService = game:GetService("RunService")
 

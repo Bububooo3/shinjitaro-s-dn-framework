@@ -1,3 +1,4 @@
+-- @ScriptType: LocalScript
 -- basic client side setup. This is a server script with the run context set to client.
 
  local DNFramework = require(script.Parent)

@@ -1,3 +1,4 @@
+-- @ScriptType: ModuleScript
 -- Misc Util
 
 local module = {}

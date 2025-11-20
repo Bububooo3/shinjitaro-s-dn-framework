@@ -1,3 +1,4 @@
+-- @ScriptType: ModuleScript
 local RunService = game:GetService("RunService")
 local TableValue = require(script.Parent.TableValue)
 local Remotes = require(script.Parent.Remotes)

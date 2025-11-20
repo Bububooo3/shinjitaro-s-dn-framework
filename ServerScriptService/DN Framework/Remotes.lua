@@ -1,3 +1,4 @@
+-- @ScriptType: ModuleScript
 -- Remotes Handler
 
 local RunService = game:GetService("RunService")
